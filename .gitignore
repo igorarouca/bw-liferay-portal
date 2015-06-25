@@ -1,0 +1,7 @@
+6.2/plugins-sdk/.ivy/*
+6.2/plugins-sdk/lib/*
+*.classpath
+*.project
+**/.settings/*
+*.MD5
+**/*.iahoora.properties
